@@ -2,12 +2,12 @@
   "skills": [
     {
       "skill_id": "skill_stock",
-      "manifest_url": "https://raw.githubusercontent.com/你的用户名/仓库名/main/skills/skill_stock/manifest.json"
+      "manifest_url": "https://raw.githubusercontent.com/wanlong7/my-agent-skills/main/skills/skill_stock/manifest.json"
     },
     {
       "skill_id": "skill_news",
-      "manifest_url": "https://raw.githubusercontent.com/你的用户名/仓库名/main/skills/skill_news/manifest.json"
+      "manifest_url": "https://raw.githubusercontent.com/wanlong7/my-agent-skills/main/skills/skill_news/manifest.json"
     },
-    // 其他技能同理（如 skill_weather、skill_translation 等）
+    // 
   ]
 }
