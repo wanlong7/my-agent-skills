@@ -1,0 +1,10 @@
+{
+  "skill_stock": {
+    "description": "查询股票实时价格",
+    "url": "https://github.com/wanlong7/my-agent-skills/tree/main/skills/skill_stock"
+  },
+  "skill_news": {
+    "description": "每日新闻早报",
+    "url": "https://github.com/wanlong7/my-agent-skills/tree/main/skills/skill_news"
+  }
+}
