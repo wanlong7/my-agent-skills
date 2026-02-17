@@ -1,5 +1,5 @@
 {
-  "name": "skill_news",
-  "description": "获取今日新闻",
+  "name": "skill_stock",
+  "description": "查询公司股价",
   "entry_point": "main.py"  // 确保指向 main.py
 }
