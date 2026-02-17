@@ -1,0 +1,10 @@
+{
+  "name": "skill_stock",
+  "description": "查询股票实时价格",
+  "functions": [
+    {
+      "name": "run",
+      "params": []
+    }
+  ]
+}
