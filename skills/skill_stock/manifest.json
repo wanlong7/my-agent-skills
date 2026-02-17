@@ -1,5 +1,6 @@
 {
   "name": "skill_stock",
   "description": "查询公司股价",
-  "entry_point": "main.py"  // 确保指向 main.py
+  "entry_point": "main.py",
+  "command": "get_stock_price"  // 映射用户输入“查询苹果公司的股价”
 }
