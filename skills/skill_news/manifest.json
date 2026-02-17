@@ -1,16 +1,5 @@
-   {
-     "name": "skill_news",
-     "description": "每日新闻早报",
-     "tools": [
-       {
-         "name": "get_daily_news",
-         "description": "获取每日新闻早报",
-         "input_schema": {
-           "type": "object",
-           "properties": {},
-           "required": []
-         }
-       }
-     ]
-   }
-   
+{
+  "name": "skill_news",
+  "description": "获取今日新闻",
+  "entry_point": "main.py"  // 确保指向 main.py
+}
