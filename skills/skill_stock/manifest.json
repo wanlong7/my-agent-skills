@@ -1,20 +1,16 @@
-{
-  "name": "skill_stock",
-  "description": "查询股票实时价格",
-  "tools": [
-    {
-      "name": "get_stock_price",
-      "description": "获取指定股票的实时价格",
-      "input_schema": {
-        "type": "object",
-        "properties": {
-          "stock_code": {
-            "type": "string",
-            "description": "股票代码（如 AAPL）"
-          }
-        },
-        "required": ["stock_code"]
+  {
+    "name": "skill_news",
+    "description": "每日新闻早报",
+    "tools": [
+      {
+        "name": "get_daily_news",
+        "description": "获取每日新闻早报",
+        "input_schema": {
+          "type": "object",
+          "properties": {},
+          "required": []
+        }
       }
-    }
-  ]
-}
+    ]
+  }
+  
