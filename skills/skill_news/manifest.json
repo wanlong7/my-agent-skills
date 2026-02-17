@@ -1,0 +1,16 @@
+   {
+     "name": "skill_news",
+     "description": "每日新闻早报",
+     "tools": [
+       {
+         "name": "get_daily_news",
+         "description": "获取每日新闻早报",
+         "input_schema": {
+           "type": "object",
+           "properties": {},
+           "required": []
+         }
+       }
+     ]
+   }
+   
