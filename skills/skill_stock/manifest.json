@@ -1,0 +1,21 @@
+   {
+     "name": "skill_stock",
+     "description": "股票查询技能",
+     "tools": [
+       {
+         "name": "get_stock_info",
+         "description": "获取股票信息",
+         "input_schema": {
+           "type": "object",
+           "properties": {
+             "stock_code": {
+               "type": "string",
+               "description": "股票代码（如：AAPL）"
+             }
+           },
+           "required": ["stock_code"]
+         }
+       }
+     ]
+   }
+   
